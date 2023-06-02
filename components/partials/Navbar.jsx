@@ -36,7 +36,7 @@ const Navbar = () => {
         </div>
         <div className='flex gap-2'>
           <div>
-            <Link href='https://datavinci.services/'>
+            <Link href='https://shopify.dev/'>
               <button className='px-3 py-1 text-sm  bg-blue-800 text-white rounded-2xl hover:bg-blue-900'>
                 Visit Website
               </button>
